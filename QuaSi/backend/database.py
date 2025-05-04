@@ -1,0 +1,1 @@
+JOBS = {}  # Simulated in-memory database
